@@ -29,6 +29,11 @@ Explora mis anotaciones detalladas y notebooks en Google Colab, donde profundizo
 - 🤑[Costo Total Baldosas](https://drive.google.com/file/d/1LJ6s8CCj1iyQsSOvP7tcuJcIkmANbR5U/view?usp=sharing)
 
 ## 🔢 Pseudocódigos de PSeInt.
-
+- 🧾[Rol de Pagos](https://drive.google.com/file/d/1Ts3a2IYMutbtFCafCAVWeEKznDivHUG8/view?usp=sharing)
+- 📐[Calcular R](https://drive.google.com/file/d/1pxactMcRaKFneSZIXJXpl2XloIi-SK-q/view?usp=sharing)
+- 📦[Cálculo del volumen de una caja](https://drive.google.com/file/d/15noRUSk6egmyt34jb-TZ7fQAewFqOaQF/view?usp=sharing)
+- ➗[Ecuación Cuadrática](https://drive.google.com/file/d/10gkwEJei2V7Qqs1sIxDbjhX1T4bd8jTD/view?usp=sharing)
+- 📐[Área de un cuadrado](https://drive.google.com/file/d/1QQ9DDfg_LoaZRJakwQgwpFaRO1MKdN27/view?usp=sharing)
+- 🤑[Costo Total Baldosas](https://drive.google.com/file/d/1oxZ1RT-Nb5k7M_j1HJr5XMryq8UGxbyq/view?usp=sharing)
 
 
