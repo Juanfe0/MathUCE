@@ -17,3 +17,18 @@ Explora mis anotaciones detalladas y notebooks en Google Colab, donde profundizo
 - 📙 [Clase 8: GRUPO 3 - Estructuras de control en Python y Demostraciones Matemáticas con Nociones de Distancia](https://colab.research.google.com/drive/1WPIYkq7f-qZyTCiisAVe-ing0EnyhnQT?usp=sharing)
 - 📕 [Clase 9: GRUPO 4 - Espacios Métricos y Conjuntos Abiertos.](https://colab.research.google.com/drive/1Yn91uj3cFLr7u_qQZPiArMUaBzon2Lo7?usp=sharing)
 - 📒 [Clase 10: GRUPO 5 - Derivadas y secuencias.](https://colab.research.google.com/drive/1acP7shHDGoVrzTjKKU67o_3kuoiuFtG3?usp=sharing)
+
+##  🐍 Códigos Python (.py).
+- 🧾[Rol de Pagos](https://drive.google.com/file/d/1Z2ls9VADFpfR2ALeekX3EGIERJmu6FPW/view?usp=sharing)
+- 👋[Hola Mundo](https://drive.google.com/file/d/1S_Q_qcrfNfGqa9dZDBPwCtMKPydNxP7h/view?usp=sharing)
+- 🔣[Operadores](https://drive.google.com/file/d/1pqAWABmdhh0AA3iLolakTV6CfmONulHr/view?usp=sharing)
+- 📐[Calcular R](https://drive.google.com/file/d/1lN8ZyF_pRNWSQ5OsStbysy92sUtlhJRN/view?usp=sharing)
+- 📦[Cálculo del volumen de una caja](https://drive.google.com/file/d/1XO0za3zDUDFHhjBwYWbWb2BopB8CTgAc/view?usp=sharing)
+- ➗[Ecuación Cuadrática](https://drive.google.com/file/d/1RW88NY0VzofYGysBn3qRNWMou5DntrsM/view?usp=sharing)
+- 📐[Área de un cuadrado](https://drive.google.com/file/d/1p4DUqJTXvqgFjtl3Q-669HUZC4WpfB7P/view?usp=sharing)
+- 🤑[Costo Total Baldosas](https://drive.google.com/file/d/1LJ6s8CCj1iyQsSOvP7tcuJcIkmANbR5U/view?usp=sharing)
+
+## 🔢 Pseudocódigos de PSeInt.
+
+
+
