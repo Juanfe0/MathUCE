@@ -37,3 +37,22 @@ Explora mis anotaciones detalladas y notebooks en Google Colab, donde profundizo
 - 🤑[Costo Total Baldosas](https://drive.google.com/file/d/1oxZ1RT-Nb5k7M_j1HJr5XMryq8UGxbyq/view?usp=sharing)
 
 
+---
+## © **Referencias y Licencias**
+
+Este trabajo utiliza material del curso "Matemáticas y Programación para Ciencias Sociales" de FLACSO Ecuador.
+
+Pérez, F. (2024). Matemáticas y Programación para Ciencias Sociales. FLACSO Ecuador.
+- Repositorio GitHub: https://github.com/franperezec/math (Licencia MIT)
+- Canal de YouTube: https://www.youtube.com/channel/UCAGEJb2ofN1E99dc-WbPkBQ (CC BY 4.0)
+
+Al utilizar este material, acepto cumplir con los términos de las licencias MIT y Creative Commons BY 4.0 respectivamente.
+
+Para más detalles sobre las licencias o usos adicionales, consultar:
+- Licencia MIT: https://opensource.org/licenses/MIT
+- CC BY 4.0: https://creativecommons.org/licenses/by/4.0/deed.es
+---
+
+Gracias por visitar mi repositorio de GitHub. ¡Espero que encuentres útil toda la información y recursos compartidos aquí! 🌈✨ Si tienes alguna pregunta o sugerencia, no dudes en contactarme. ¡Feliz aprendizaje y programación! 🚀😊
+
+---
