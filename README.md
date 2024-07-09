@@ -2,6 +2,8 @@
 
 ¡Bienvenido a mi repositorio dedicado a la intersección entre Matemáticas y Programación! Aquí comparto recursos, proyectos y ejercicios que exploran cómo los conceptos matemáticos se aplican en la programación. 📚💻
 
+---
+
 ## Contenidos Destacados 📋
 
 ### 🚀 Notebooks en Google Colab
@@ -18,6 +20,8 @@ Explora mis anotaciones detalladas y notebooks en Google Colab, donde profundizo
 - 📕 [Clase 9: GRUPO 4 - Espacios Métricos y Conjuntos Abiertos.](https://colab.research.google.com/drive/1Yn91uj3cFLr7u_qQZPiArMUaBzon2Lo7?usp=sharing)
 - 📒 [Clase 10: GRUPO 5 - Derivadas y secuencias.](https://colab.research.google.com/drive/1acP7shHDGoVrzTjKKU67o_3kuoiuFtG3?usp=sharing)
 
+  ---
+
 ##  🐍 Códigos Python (.py).
 - 🧾[Rol de Pagos](https://drive.google.com/file/d/1Z2ls9VADFpfR2ALeekX3EGIERJmu6FPW/view?usp=sharing)
 - 👋[Hola Mundo](https://drive.google.com/file/d/1S_Q_qcrfNfGqa9dZDBPwCtMKPydNxP7h/view?usp=sharing)
@@ -28,6 +32,8 @@ Explora mis anotaciones detalladas y notebooks en Google Colab, donde profundizo
 - 📐[Área de un cuadrado](https://drive.google.com/file/d/1p4DUqJTXvqgFjtl3Q-669HUZC4WpfB7P/view?usp=sharing)
 - 🤑[Costo Total Baldosas](https://drive.google.com/file/d/1LJ6s8CCj1iyQsSOvP7tcuJcIkmANbR5U/view?usp=sharing)
 
+---
+
 ## 🔢 Pseudocódigos de PSeInt.
 - 🧾[Rol de Pagos](https://drive.google.com/file/d/1Ts3a2IYMutbtFCafCAVWeEKznDivHUG8/view?usp=sharing)
 - 📐[Calcular R](https://drive.google.com/file/d/1pxactMcRaKFneSZIXJXpl2XloIi-SK-q/view?usp=sharing)
@@ -35,9 +41,11 @@ Explora mis anotaciones detalladas y notebooks en Google Colab, donde profundizo
 - ➗[Ecuación Cuadrática](https://drive.google.com/file/d/10gkwEJei2V7Qqs1sIxDbjhX1T4bd8jTD/view?usp=sharing)
 - 📐[Área de un cuadrado](https://drive.google.com/file/d/1QQ9DDfg_LoaZRJakwQgwpFaRO1MKdN27/view?usp=sharing)
 - 🤑[Costo Total Baldosas](https://drive.google.com/file/d/1oxZ1RT-Nb5k7M_j1HJr5XMryq8UGxbyq/view?usp=sharing)
-
+  
 
 ---
+
+
 ## © **Referencias y Licencias**
 
 Este trabajo utiliza material del curso "Matemáticas y Programación para Ciencias Sociales" de FLACSO Ecuador.
@@ -51,6 +59,7 @@ Al utilizar este material, acepto cumplir con los términos de las licencias MIT
 Para más detalles sobre las licencias o usos adicionales, consultar:
 - Licencia MIT: https://opensource.org/licenses/MIT
 - CC BY 4.0: https://creativecommons.org/licenses/by/4.0/deed.es
+
 ---
 
 Gracias por visitar mi repositorio de GitHub. ¡Espero que encuentres útil toda la información y recursos compartidos aquí! 🌈✨ Si tienes alguna pregunta o sugerencia, no dudes en contactarme. ¡Feliz aprendizaje y programación! 🚀😊
