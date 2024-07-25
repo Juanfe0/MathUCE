@@ -19,7 +19,10 @@ Explora mis anotaciones detalladas y notebooks en Google Colab, donde profundizo
 - 📙 [Clase 8: GRUPO 3 - Estructuras de control en Python y Demostraciones Matemáticas con Nociones de Distancia](https://colab.research.google.com/drive/1WPIYkq7f-qZyTCiisAVe-ing0EnyhnQT?usp=sharing)
 - 📕 [Clase 9: GRUPO 4 - Espacios Métricos y Conjuntos Abiertos.](https://colab.research.google.com/drive/1Yn91uj3cFLr7u_qQZPiArMUaBzon2Lo7?usp=sharing)
 - 📒 [Clase 10: GRUPO 5 - Derivadas y secuencias.](https://colab.research.google.com/drive/1acP7shHDGoVrzTjKKU67o_3kuoiuFtG3?usp=sharing)
-
+- 📘 [Clase 11: GRUPO 5 - Origenes del Cálculo Infinitesimal y la Derivada.](https://colab.research.google.com/drive/1qUi7W8SCCGAMLUoeE9kSf7KBdoS-T-uG?usp=sharing)
+- 📗 [Clase 12: GRUPO 3 - Resolución de Problemas de Cálculo en Python y Series de Taylor.](https://colab.research.google.com/drive/1dQbMSpeFzDnjgKSekESQn_QYYoMfExWk?usp=sharing)
+- 📙 [Clase 13: GRUPO 2 - Fundamentos de Integración y Teorema Fundamental del Cálculo](https://colab.research.google.com/drive/1H7GWDR8-SyEYcJC-kvNKa1qdmDBKOuUK?usp=sharing)
+- 📕 [Banco de preguntas: GRUPO 4](https://colab.research.google.com/drive/12SWbW0IeBPP1R1TCM0SF_XbhdG6o8aZw?usp=sharing)
   ---
 
 ##  🐍 Códigos Python (.py).
