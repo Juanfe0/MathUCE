@@ -23,6 +23,7 @@ Explora mis anotaciones detalladas y notebooks en Google Colab, donde profundizo
 - 📗 [Clase 12: GRUPO 3 - Resolución de Problemas de Cálculo en Python y Series de Taylor.](https://colab.research.google.com/drive/1dQbMSpeFzDnjgKSekESQn_QYYoMfExWk?usp=sharing)
 - 📙 [Clase 13: GRUPO 2 - Fundamentos de Integración y Teorema Fundamental del Cálculo](https://colab.research.google.com/drive/1H7GWDR8-SyEYcJC-kvNKa1qdmDBKOuUK?usp=sharing)
 - 📕 [Banco de preguntas: GRUPO 4](https://colab.research.google.com/drive/12SWbW0IeBPP1R1TCM0SF_XbhdG6o8aZw?usp=sharing)
+  
   ---
 
 ##  🐍 Códigos Python (.py).
