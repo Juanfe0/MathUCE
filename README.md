@@ -22,6 +22,7 @@ Explora mis anotaciones detalladas y notebooks en Google Colab, donde profundizo
 - 📘 [Clase 11: GRUPO 5 - Origenes del Cálculo Infinitesimal y la Derivada.](https://colab.research.google.com/drive/1qUi7W8SCCGAMLUoeE9kSf7KBdoS-T-uG?usp=sharing)
 - 📗 [Clase 12: GRUPO 3 - Resolución de Problemas de Cálculo en Python y Series de Taylor.](https://colab.research.google.com/drive/1dQbMSpeFzDnjgKSekESQn_QYYoMfExWk?usp=sharing)
 - 📙 [Clase 13: GRUPO 2 - Fundamentos de Integración y Teorema Fundamental del Cálculo](https://colab.research.google.com/drive/1H7GWDR8-SyEYcJC-kvNKa1qdmDBKOuUK?usp=sharing)
+- 📒 [Tutoría GRUPO 1 - FUNDAMENTOS MATEMÁTICOS: DE LA LÓGICA A LOS ESPACIOS MÉTRICO](https://colab.research.google.com/drive/1hX76cpTqTwyEGC5z_WAdCiORO7J2RjYF?usp=sharing)
 - 📕 [Banco de preguntas: GRUPO 4](https://colab.research.google.com/drive/12SWbW0IeBPP1R1TCM0SF_XbhdG6o8aZw?usp=sharing)
   
   ---
